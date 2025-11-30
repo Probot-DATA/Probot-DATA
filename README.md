@@ -44,6 +44,7 @@
 | 🧹 **Data Quality Pipeline (DQ Project)** | Validated & cleaned data to improve ML pipeline trust and performance | Data Engineering | Python, Pandas,Math |
 
 > 🔗 Project links will be added soon as repositories are uploaded!
+> 
 -https://github.com/Probot-DATA/Data_Quality_Framework
 -https://github.com/Probot-DATA/Game_Review_Sentiment_Analysis_using_NLP
 
