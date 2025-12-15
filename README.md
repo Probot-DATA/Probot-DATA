@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Iam Prabhat Mukku </h1>
 
 <p align="center">
-  Data Science Student • PowerBI Analyst • Gaming Analytics Enthusiast 🎮
+  Data Science Student • PowerBI Analyst 
 </p>
 
 ---
@@ -46,7 +46,7 @@
 #### 🔗 Project links will be added soon as repositories are uploaded!
 -https://github.com/Probot-DATA/Data_Quality_Framework
 
--https://github.com/Probot-DATA/Game_Review_Sentiment_Analysis_using_NLP
+-https://github.com/Probot-DATA/-Sentiment-And-Topic-Intelligence-Framework
 
 
 ## 📬 Connect With Me!
