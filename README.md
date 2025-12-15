@@ -23,7 +23,7 @@
 | Data Wrangling | Pandas, NumPy, Feature Engineering |
 | Visualization | Power BI, Matplotlib |
 | Databases | MySQL |
-| Dev | GitHub |
+| Platforms | GitHub, HuggingFace, Jupyter |
 | Math | Satistics , Calculus And Probability |
 ---
 
