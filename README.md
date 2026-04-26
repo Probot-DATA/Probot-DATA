@@ -46,7 +46,7 @@
 #### 🔗 Project links will be added soon as repositories are uploaded!
 -https://github.com/Probot-DATA/Data_Quality_Framework
 
--https://github.com/Probot-DATA/-Sentiment-And-Topic-Intelligence-Framework
+-https://github.com/Probot-DATA/-Sentiment-And-Topic-Intelligence-Framework-
 
 
 ## 📬 Connect With Me!
