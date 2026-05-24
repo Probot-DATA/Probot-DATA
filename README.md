@@ -34,19 +34,11 @@
 - **Coursera : Applied Text Mining In Python**
 - **Coursera : Generative AI SQL Database Specialist with ChatGPT**
 
----
-
-## 📌 Featured Projects
-
-| Project | Description | Domain | Tech |
-|--------|-------------|--------|-----|
-| 🎮 **Supercell Game Analytics** | Extracted insights from player feedback using NLP, sentiment analysis & dashboarding | Game Data Science | Python, NLP, Power BI |
-| 🧹 **Data Quality Pipeline (DQ Project)** | Validated & cleaned data to improve ML pipeline trust and performance | Data Engineering | Python, Pandas,Math |
 
 #### 🔗 Project links will be added soon as repositories are uploaded!
 -https://github.com/Probot-DATA/ML-Monitoring-and-Reliability-Engine
-
 -https://github.com/Probot-DATA/-Sentiment-And-Topic-Intelligence-Framework-
+-https://github.com/Probot-DATA/Cleanalytix_Repo
 
 
 ## 📬 Connect With Me!
