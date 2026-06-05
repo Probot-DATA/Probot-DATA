@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - Passionate about building Data Driven solutions that improve player and user experiences
-- interest in **Game Analytics**, **NLP**, and **Predictive Modeling**
+- interest in **Analytics**, **NLP**, and **Predictive Modeling**
 - Always learning and Exploring new things
 
 ---
